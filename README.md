@@ -248,3 +248,5 @@ Rata-rata rating untuk produk Laptop X: 4.00
 
 
 
+
+     
